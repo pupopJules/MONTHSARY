@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -802,8 +801,7 @@ body {
      9 FLOATING PHOTOS
 ========================================= -->
 
-<div class="photo-wall">
-
+<div class="photo-wall"
     <img class="photo" src="images/photo1.png" alt="Our memory">
     <img class="photo" src="images/photo2.png" alt="Our memory">
     <img class="photo" src="images/photo3.png" alt="Our memory">
@@ -814,7 +812,7 @@ body {
     <img class="photo" src="images/photo8.png" alt="Our memory">
     <img class="photo" src="images/photo9.png" alt="Our memory">
 
-</div>
+
 
 <audio id="bgMusic" loop>
     <source src="ikaw_at_ako.mp3" type="audio/mpeg">
