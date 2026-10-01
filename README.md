@@ -802,15 +802,15 @@ body {
 ========================================= -->
 
 <div class="photo-wall">
-    <img class="photo" src="images/photo1.png" alt="Our memory">
-    <img class="photo" src="images/photo2.png" alt="Our memory">
-    <img class="photo" src="images/photo3.png" alt="Our memory">
-    <img class="photo" src="images/photo4.png" alt="Our memory">
-    <img class="photo" src="images/photo5.png" alt="Our memory">
-    <img class="photo" src="images/photo6.png" alt="Our memory">
-    <img class="photo" src="images/photo7.png" alt="Our memory">
-    <img class="photo" src="images/photo8.png" alt="Our memory">
-    <img class="photo" src="images/photo9.png" alt="Our memory">
+    <img class="photo" src="photo1.png" alt="Our memory">
+    <img class="photo" src="photo2.png" alt="Our memory">
+    <img class="photo" src="photo3.png" alt="Our memory">
+    <img class="photo" src="photo4.png" alt="Our memory">
+    <img class="photo" src="photo5.png" alt="Our memory">
+    <img class="photo" src="photo6.png" alt="Our memory">
+    <img class="photo" src="photo7.png" alt="Our memory">
+    <img class="photo" src="photo8.png" alt="Our memory">
+    <img class="photo" src="photo9.png" alt="Our memory">
 </div>
 
 
